@@ -78,10 +78,10 @@ li:hover  {
    width: 8.3vw;
 }
 #one {background-color:#008B8B;}
-#two {background-color:	#808000;}
-#three {background-color#008080;}
+#two {background-color:	#20B2AA;}
+#three {background-color: #008080;}
 #four {background-color:#2F4F4F;}
-#five {background-color:#FAEBD7;}
+#five {background-color:#4fa1b0;}
 section {
   position: relative;
   display: block;
@@ -263,10 +263,10 @@ li:hover  {
    width: 80px;
 }
 #one {background-color:#008B8B;}
-#two {background-color:	#808000;}
-#three {background-color#008080;}
+#two {background-color:	#20B2AA;}
+#three {background-color: #008080;}
 #four {background-color:#2F4F4F;}
-#five {background-color:#FAEBD7;}
+#five {background-color:#4fa1b0;}
 section {
   position: relative;
   margin-left: -10px;
